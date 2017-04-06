@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-btce-api",
+  "version": "0.0.1",
+  "description": "A Node.JS client to interact with the btc-e api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tf-redfree/NodeJS-btce-api.git"
+  },
+  "keywords": [
+    "Node",
+    "Node.JS",
+    "NodeJS",
+    "Javascript",
+    "BTCe",
+    "BTC-e",
+    "API"
+  ],
+  "author": "Tony Free",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tf-redfree/NodeJS-btce-api/issues"
+  },
+  "homepage": "https://github.com/tf-redfree/NodeJS-btce-api#readme"
+}
